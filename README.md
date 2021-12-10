@@ -3,7 +3,7 @@ A collection of configuration files for importing into Visual Studio 2022.
 
 # Usage Instructions
 
-1. Download copy of this repository as a zip file.
+1. [Download](https://github.com/TA-RPA/VisualStudioConfigs/archive/refs/heads/main.zip) this repository.
 2. Extract all files except for README.md to your project directory.
 3. Rename `visualstudio.gitignore` to `.gitignore`
 4. Rename `visualstudio.editorconfig` to `.editorconfig`
